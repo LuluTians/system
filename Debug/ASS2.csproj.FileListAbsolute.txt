@@ -1,0 +1,10 @@
+c:\users\21900856\source\repos\ASS2\ASS2\bin\Debug\ASS2.exe.config
+c:\users\21900856\source\repos\ASS2\ASS2\bin\Debug\ASS2.exe
+c:\users\21900856\source\repos\ASS2\ASS2\bin\Debug\ASS2.pdb
+c:\users\21900856\source\repos\ASS2\ASS2\obj\Debug\ASS2.csprojAssemblyReference.cache
+c:\users\21900856\source\repos\ASS2\ASS2\obj\Debug\ASS2.Form1.resources
+c:\users\21900856\source\repos\ASS2\ASS2\obj\Debug\ASS2.Properties.Resources.resources
+c:\users\21900856\source\repos\ASS2\ASS2\obj\Debug\ASS2.csproj.GenerateResource.cache
+c:\users\21900856\source\repos\ASS2\ASS2\obj\Debug\ASS2.csproj.CoreCompileInputs.cache
+c:\users\21900856\source\repos\ASS2\ASS2\obj\Debug\ASS2.exe
+c:\users\21900856\source\repos\ASS2\ASS2\obj\Debug\ASS2.pdb
